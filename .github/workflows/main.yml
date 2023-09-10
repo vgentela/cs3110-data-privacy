@@ -2,7 +2,7 @@
 name : Git Pull Upstream
 on :
   schedule :
-    - cron : '15 * * * *'
+    - cron : '0 0 * * 0,1'
 jobs:
   git-pull :
     runs-on : ubuntu-latest
