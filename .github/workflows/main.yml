@@ -1,14 +1,17 @@
 
-name : Git Pull
+name : Git Pull Upstream
 on :
   schedule :
-    - cron : '0 1 * * 0,1'
+    - cron : '10 1 * * 0,1'
 jobs:
   git-pull :
     runs-on : ubuntu-latest
     steps:
     - name : checkout code
       uses : actions/checkout@v2
+      with:
+        repository: upstream/repo
+        ref : main
     - name : Git Pull
       run : git pull
       env:
