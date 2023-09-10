@@ -222,10 +222,10 @@ Click [here](https://jnear.github.io/cs3110-data-privacy/projects) for more comp
 
 We will **not hold class** on **Friday, September 15**. I encourage you
 to attend [CS Student Research
-Day](TBD) and learn about
+Day](https://go.uvm.edu/6v091) and learn about
 the awesome research being done by CS students at UVM!
 
-- If you attend **two full sessions** of talks (~4 talks), **take
+- If you attend **one full session** of talks (or 4 talks total), **take
   brief notes on the talks you hear**, and **send the notes to me via
   email by 11:59pm on September 16**, I will give **1% extra credit to
   your final grade in the course**
@@ -235,7 +235,7 @@ the awesome research being done by CS students at UVM!
 Note that class will **not** be held on the following dates:
 
 - Monday, September 4 (Labor Day)
-- Friday, September 15 (please attend [CS Student Research Day](TBD)
+- Friday, September 15 (please attend [CS Student Research Day](https://go.uvm.edu/6v091)
 - Friday, October 13 (Fall Recess)
 - November 20-24 (Thanksgiving)
 
@@ -261,7 +261,7 @@ Homework dates:
 |                                                                                            Item | Due Date |
 |------------------------------------------------------------------------------------------------:|----------|
 | [Homework 1](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_1.ipynb) | 9/11/23  |
-|                                                                                      Homework 2 | 9/18/23  |
+| [Homework 2](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_2.ipynb) | 9/18/23  |
 |                                                                                      Homework 3 | 9/25/23  |
 |                                                                                      Homework 4 | 10/2/23  |
 |                                                                                      Homework 5 | 10/16/23 |
