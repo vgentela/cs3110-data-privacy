@@ -2,7 +2,7 @@
 name : Git Pull
 on :
   schedule :
-    - cron : '0 0 * * 0,1'
+    - cron : '0 1 * * 0,1'
 jobs:
   git-pull :
     runs-on : ubuntu-latest
